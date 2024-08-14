@@ -1,4 +1,6 @@
-Sentiment Analysis with BERT
+**Sentiment Analysis with BERT**
+
+
 Overview
 This project demonstrates the use of BERT (Bidirectional Encoder Representations from Transformers) for sentiment analysis on movie reviews. The BERT model, known for its state-of-the-art performance in Natural Language Processing (NLP), is fine-tuned on the IMDB dataset to classify movie reviews into positive or negative sentiments.
 
