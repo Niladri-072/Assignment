@@ -1,4 +1,4 @@
-```markdown
+```
 # BERT-based Sentiment Analysis for Movie Reviews
 
 ## Introduction
