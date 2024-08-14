@@ -1,6 +1,6 @@
 
 
-```markdown
+```
 # BERT-based Sentiment Analysis for Movie Reviews
 
 ## Introduction
@@ -18,13 +18,13 @@ This project implements a sentiment analysis model using BERT (Bidirectional Enc
 
 2. Install required libraries:
 
-   ```python
+   ```
    !pip install transformers tensorflow keras-tuner
    ```
 
 3. Import necessary libraries:
 
-   ```python
+   ```
    import pandas as pd
    import numpy as np
    import transformers
